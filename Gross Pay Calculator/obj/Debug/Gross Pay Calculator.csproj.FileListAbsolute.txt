@@ -1,0 +1,10 @@
+D:\Gross Pay Calculator\Gross Pay Calculator\bin\Debug\Gross Pay Calculator.exe.config
+D:\Gross Pay Calculator\Gross Pay Calculator\bin\Debug\Gross Pay Calculator.exe
+D:\Gross Pay Calculator\Gross Pay Calculator\bin\Debug\Gross Pay Calculator.pdb
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross Pay Calculator.csproj.AssemblyReference.cache
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross_Pay_Calculator.Form1.resources
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross_Pay_Calculator.Properties.Resources.resources
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross Pay Calculator.csproj.GenerateResource.cache
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross Pay Calculator.csproj.CoreCompileInputs.cache
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross Pay Calculator.exe
+D:\Gross Pay Calculator\Gross Pay Calculator\obj\Debug\Gross Pay Calculator.pdb
